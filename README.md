@@ -1,4 +1,4 @@
-# Hi there, I’m [Your Name] 👋
+# Hi there, I’m Ayoub Ouachra 👋
 
 👋 **I’m a professional developer/designer.** I create clean, reliable web interfaces and I work with HTML email templates — currently at a beginner → intermediate level and improving every day.  
 👀 **Interests:** Web development, email design, open-source, and creative problem-solving  
@@ -25,7 +25,7 @@ I use and learn these tools (email-focused items included):
 ## 📂 Selected Projects
 - **Responsive Email Template** — a lightweight transactional email template that renders well across Gmail, Outlook, and mobile.  
 - **Landing Page + Signup Flow** — integrates a signup form that triggers email confirmations.  
-- *(Add links to these repositories when you publish them.)*
+  
 
 ---
 
