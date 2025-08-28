@@ -19,8 +19,11 @@ I use and continuously learn these tools and technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
 ![MJML](https://img.shields.io/badge/-MJML-FF6A00?logo=mjml&logoColor=fff&style=flat)  
 ![Litmus (Email Testing)](https://img.shields.io/badge/-EmailTesting-00ADEF?style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=fff&style=flat)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)  
+
 
 ---
 
