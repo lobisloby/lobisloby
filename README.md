@@ -4,7 +4,7 @@
 👀 **Interests:** Web development, email design, open-source, and creative problem-solving  
 🌱 **Currently learning:** Responsive HTML email techniques, CSS for email clients, and advanced accessibility practices  
 💞️ **Looking to collaborate on:** Email templates, landing pages, beginner-friendly web apps, and open-source UI projects  
-📫 **Reach me at:** [your.email@example.com] | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayou-ouachra-34764837a/))  
+📫 **Reach me at:** ayoubiss.10@gmail.com | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayou-ouachra-34764837a/))  
 ⚡ **Fun fact:** I enjoy turning small ideas into working projects and testing how emails render across different clients.
 
 ---
