@@ -1,56 +1,70 @@
-# Hi there, I’m Ayoub Ouachra 👋
+# Ayoub Ouachra
+### Frontend Developer | UI Designer | Email Marketing Specialist
 
-👋 **I’m an aspiring frontend developer and professional designer.** I build clean, reliable web interfaces and HTML email templates. I’m continuously learning and improving my skills every day, focused on creating responsive, user-friendly, and visually appealing projects.  
+I am a technical designer and frontend developer focused on creating high-performance web interfaces and HTML email systems. I specialize in the full product lifecycle: designing user interfaces from scratch in Figma and translating them into clean, responsive code.
 
-👀 **Interests:** Web development, HTML email design, open-source projects, and creative problem-solving  
-🌱 **Currently learning:** Advanced responsive HTML email techniques, CSS for email clients, accessibility best practices, and modern frontend frameworks  
-💞️ **Looking to collaborate on:** Email templates, landing pages, beginner-friendly web apps, and open-source UI projects  
-📫 **Reach me at:** ayoubiss.10@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayou-ouachra-34764837a/)  
-⚡ **Fun fact:** I enjoy turning small ideas into functional projects and testing how emails render across multiple clients.  
+Currently, I collaborate with companies to optimize their email marketing strategies, developing robust templates that increase engagement and render perfectly across all major email clients.
 
 ---
 
-## 🔧 Tools & Technologies  
+## Professional Summary
 
-### 🧱 Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![Sass / SCSS](https://img.shields.io/badge/-Sass%2FSCSS-CC6699?logo=sass&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-
-### 💌 Email Development
-![MJML](https://img.shields.io/badge/-MJML-FF6A00?logo=mjml&logoColor=fff&style=flat)
-![Litmus](https://img.shields.io/badge/-Litmus%20Testing-00ADEF?logo=litmus&logoColor=fff&style=flat)
-
-### ⚙️ Other Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
-
-
+- **UI/UX Design:** Capable of designing full-scale applications and landing pages from a blank canvas in Figma, focusing on accessibility and visual hierarchy.
+- **Email Development:** Expert in building responsive HTML emails using MJML and raw HTML/CSS, ensuring compatibility with Outlook, Gmail, and mobile clients to support marketing campaigns.
+- **Frontend Engineering:** Experienced in building responsive, component-based web applications using modern JavaScript and CSS frameworks.
 
 ---
 
-## 📂 Selected Projects
+## Technical Expertise
 
-- **Responsive Email Template** — A lightweight, transactional email template that renders flawlessly across Gmail, Outlook, and mobile devices.  
-- **Landing Page + Signup Flow** — A landing page integrated with a signup form that triggers confirmation emails and user notifications.  
+### Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Styling & Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Email Infrastructure
+![MJML](https://img.shields.io/badge/MJML-D94636?style=for-the-badge&logo=mjml&logoColor=white)
+![Litmus](https://img.shields.io/badge/Litmus-4C4D56?style=for-the-badge&logo=litmus&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=Qt&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+**Enterprise Email Design System**
+> Designed and coded a scalable email system for marketing campaigns.
+> *   **Role:** Designer & Developer
+> *   **Impact:** Improved open rates and rendering consistency across Outlook and Mobile.
+> *   **Tech:** Figma, MJML, HTML5.
+
+**Responsive Landing Page & Signup Flow**
+> A high-conversion landing page with custom form validation and user authentication.
+> *   **Role:** Frontend Developer
+> *   **Tech:** React, Sass, JavaScript.
 
 ---
 
-## 🌐 Portfolio
+## GitHub Analytics
 
-🔗 Check out my work: [LinkedIn Portfolio](https://www.linkedin.com/in/ayou-ouachra-34764837a/)  
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=graywhite&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
-✨ Thanks for visiting my profile! I’m always open to mentorship, collaboration, and feedback on email templates or frontend projects.
+### Contact Information
+
+[LinkedIn Profile](https://www.linkedin.com/in/ayou-ouachra-34764837a/) | [ayoubiss.10@gmail.com](mailto:ayoubiss.10@gmail.com)
