@@ -67,4 +67,4 @@ Currently, I collaborate with companies to optimize their email marketing strate
 
 ### Contact Information
 
-[LinkedIn Profile]([https://www.linkedin.com/in/ayou-ouachra-34764837a/](https://www.linkedin.com/in/ayoub-ouachra-34764837a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhCvoDO9lRTSbo%2Fe98YJmxQ%3D%3D)) | [ayoubiss.10@gmail.com](mailto:ayoubiss.10@gmail.com)
+[LinkedIn Profile](linkedin.com/in/ayoub-ouachra-34764837a) | [ayoubiss.10@gmail.com](mailto:ayoubiss.10@gmail.com)
